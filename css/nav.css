@@ -1,0 +1,21 @@
+nav {
+  background: #ff7f1c;
+  font-family: Arial;
+  font-size: 12px;
+}
+nav li {
+  margin-left: -2px;
+  margin-right: -2px;
+  display: inline-block;
+  border-left: 1px solid #aaa;
+  width: 20%;
+}
+nav li a {
+  color: #fff;
+  display: block;
+  line-height: 50px;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #ff7f1c;
+}
